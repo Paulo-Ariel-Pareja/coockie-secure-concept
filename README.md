@@ -1,4 +1,4 @@
-# Cookie Secre Concept
+# Cookie Secure Concept
 Pequeño servidor conceptual para manejo de cookies firmadas.
 
 ### Test by yourself
